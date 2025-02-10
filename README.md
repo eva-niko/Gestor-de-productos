@@ -7,4 +7,5 @@ Está integrado a una base de datos de SQLite3.
 
 * En la misma carpeta hay una base de datos ya cargada: "inventario". Borrala si querés cargar tus productos.
 
+# Captura de la aplicación
 ![Captura](https://github.com/user-attachments/assets/c0ff57d4-2703-4a59-9d8d-6ac94a4f3b22)
